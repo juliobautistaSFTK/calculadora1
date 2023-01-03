@@ -40,7 +40,7 @@ if (request.getMethod() == "POST") {
 	<input type="submit" value="Multiplicar" name="multiplicar" />
 	<input type="submit" value="Dividir" name="dividir" />
 	<br /><br />
-	Resultado:<%=resultado%>
+	Resultado de la operación:<%=resultado%>
 	</form>
 
 </body>
